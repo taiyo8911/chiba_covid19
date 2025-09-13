@@ -61,7 +61,6 @@ streamlit run main.py
 - わずか数行のコードで、データ系Webアプリが作れることを確認しました。
 
 ## 参考情報
-- [Pythonで簡単なWebアプリ作成：Streamlitの使い方](https://note.com/maclove/n/n5b95254fa6d3)
 - [StreamlitでWebアプリ作成（動画）](https://youtu.be/zp-kAt1Ih5k)
 
 

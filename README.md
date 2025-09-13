@@ -43,6 +43,8 @@ df = pd.read_csv('0215chiba_corona_data.csv', index_col='市町村')
 st.dataframe(df)
 st.bar_chart(df)
 
+```
+
 ## Webアプリの実行方法
 ターミナルまたはコマンドプロンプトで以下を実行：
 ``` bash
